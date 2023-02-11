@@ -1,0 +1,26 @@
+{
+    "name": "p4nd4",
+    "description": "p4nd4",
+    "keywords": [
+        "CONSULTA",
+        "Bot"
+    ],
+    "website": "https://github.com/p4nd4/",
+    "repository": "https://github.com/p4nd4/cp4nd4/",
+    "success_url": "/",
+    "env": {
+        "API_TOKEN": {
+            "description": "API Token , get it from @BotFather"
+        },
+        "START_MSG": {
+           "description": "Enter Custom Start Message"
+    }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}

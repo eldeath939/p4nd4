@@ -5,8 +5,8 @@
         "CONSULTA",
         "Bot"
     ],
-    "website": "https://github.com/p4nd4/",
-    "repository": "https://github.com/p4nd4/cp4nd4/",
+    "website": "https://github.com/eldeath939/",
+    "repository": "https://github.com/eldeath939/p4nd4",
     "success_url": "/",
     "env": {
         "API_TOKEN": {
